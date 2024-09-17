@@ -2,13 +2,17 @@
 
 This is the analysis code for the research project on societal relevance of humanities research. 
 
-## IIH_Simuls
+## Inferential statistics
 
-Describes the Bayesian Thurstonian model that we will use to analyse the data. Will be part of the preregistration on OSF for this study.
+Notebook with the bayesian models used to analyze the data.
 
-## IIH_QuestionTests
+## Effect sizes
 
-Describes the main research questions and how we will test them. Will be part of the preregistration on OSF for this study.
+Notebook with the various tests we use to answer the main questions of this project. Is called 'effect sizes' because this is what we use for most of them.
+
+## Preregistered analysis
+
+Contains the simulations and analysis that we preregistered. There were some errors, and we made some improvements after seeing the data. This will be communicated clearly, and the research will be presented as exploratory. The preregistered code is still available here, and shows that the test methods and overall model design remained the same. 
 
 ## IIH_CheckRaters
 
