@@ -2,11 +2,15 @@
 
 This is the analysis code for the research project on societal relevance of humanities research. 
 
-## Inferential statistics
+## Inferential statistics: main models
 
-Notebook with the bayesian models used to analyze the data.
+Notebook with the bayesian models used in the paper to analyze the data.
 
-## Effect sizes
+## Sanity checks
+
+Notebooks with some basic checks to make sure that the outcomes of the thurstonian models make sense.
+
+## Effect sizes (to be added)
 
 Notebook with the various tests we use to answer the main questions of this project. Is called 'effect sizes' because this is what we use for most of them.
 
