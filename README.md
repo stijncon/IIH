@@ -29,3 +29,7 @@ Notebook to manage the coding of the content of abstracts.
 ## IIH_PaperFigures
 
 Code for all the figures in the paper.
+
+## IIH_PrepData
+
+Notebook with the code to turn the qualtrics csv into data usable for the analysis. This notebook also merges the datasets from studies 1 and 2 with the data from study 3.
